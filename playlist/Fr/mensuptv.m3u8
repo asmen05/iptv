@@ -1,7 +1,8 @@
 #EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live.eu-north-1b.cf.dmcdn.net/sec2(aq5BecrNT-CVy2BAj4INgopycIrAeIqDkO4aC6tg3YqovAR2d27O79BsA2y940NvIDTizO8eLZuCU2BL0W7G-hVd6ifW3dVXUR0PUBGoTAUWFNxYJNBPZ7o-qGgHITvn)/dm/3/x2kr3hs/s/live-380.m3u8#cell=lcf-eu-north-1b
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live.eu-north-1b.cf.dmcdn.net/sec2(aq5BecrNT-CVy2BAj4INgopycIrAeIqDkO4aC6tg3YqovAR2d27O79BsA2y940NvIDTizO8eLZuCU2BL0W7G-hVd6ifW3dVXUR0PUBGoTAUWFNxYJNBPZ7o-qGgHITvn)/dm/3/x2kr3hs/s/live-240.m3u8#cell=lcf-eu-north-1b
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=25.000000,BANDWIDTH=1359872,CODECS="avc1.42001e,mp4a.40.2",NAME="480"
-https://live.eu-north-1b.cf.dmcdn.net/sec2(aq5BecrNT-CVy2BAj4INgopycIrAeIqDkO4aC6tg3YqovAR2d27O79BsA2y940NvIDTizO8eLZuCU2BL0W7G-hVd6ifW3dVXUR0PUBGoTAUWFNxYJNBPZ7o-qGgHITvn)/dm/3/x2kr3hs/s/live-480.m3u8#cell=lcf-eu-north-1b
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1582233,RESOLUTION=854x480,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_480p/chunks_dvr.m3u8?token=3JnaujOH1Ow6XF7_ui2agczFdDKBUdPrkUOaIRCrR-g&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q&expires=1759049855
+#EXT-X-STREAM-INF:BANDWIDTH=718477,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.77.30,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_360p/chunks_dvr.m3u8?token=3JnaujOH1Ow6XF7_ui2agczFdDKBUdPrkUOaIRCrR-g&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q&expires=1759049855
+#EXT-X-STREAM-INF:BANDWIDTH=377967,RESOLUTION=426x240,FRAME-RATE=25,CODECS="avc1.4d4015,mp4a.40.2"
+https://cdn.live.easybroadcast.io/abr_corp/73_almaghribia_83tz85q/corp/73_almaghribia_83tz85q_240p/chunks_dvr.m3u8?token=3JnaujOH1Ow6XF7_ui2agczFdDKBUdPrkUOaIRCrR-g&token_path=%2Fabr_corp%2F73_almaghribia_83tz85q&expires=1759049855
