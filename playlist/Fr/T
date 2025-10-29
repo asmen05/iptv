@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:95868
+#EXTINF:10.000,
+https://liveeu-gcp.alkassdigital.net/alkass1-p/mux_video_720p_ts/segment-0000095868.ts
+#EXTINF:10.000,
+https://liveeu-gcp.alkassdigital.net/alkass1-p/mux_video_720p_ts/segment-0000095869.ts
+#EXT-X-ENDLIST
