@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=890000,BANDWIDTH=1090000,RESOLUTION=426x240,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v5a1%252Fmono.ts.m3u8
+https://on-tv.site/stream/stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v5a1%252Fmono.ts.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1540000,BANDWIDTH=1910000,RESOLUTION=640x360,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v4a1%252Fmono.ts.m3u8
+https://on-tv.site/stream/stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v4a1%252Fmono.ts.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2700000,BANDWIDTH=3360000,RESOLUTION=852x480,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v3a1%252Fmono.ts.m3u8
+https://on-tv.site/stream/stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v3a1%252Fmono.ts.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4870000,BANDWIDTH=6070000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v2a1%252Fmono.ts.m3u8
+https://on-tv.site/stream/stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v2a1%252Fmono.ts.m3u8
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=9400000,BANDWIDTH=11730000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
-stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v1a1%252Fmono.ts.m3u8
+https://on-tv.site/stream/stream.php?id=shahaAR&segment=stream.php%3Fid%3DshahaAR%26segment%3Dtracks-v1a1%252Fmono.ts.m3u8
