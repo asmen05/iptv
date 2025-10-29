@@ -1,0 +1,21 @@
+#EXTM3U
+
+# جودة منخفضة 240p
+#EXT-X-STREAM-INF:BANDWIDTH=900000,RESOLUTION=426x240,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://liveeu-gcp.alkassdigital.net/alkass1-p/mux_video_240p_ts/index-1.m3u8
+
+# جودة متوسطة 360p
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=640x360,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://liveeu-gcp.alkassdigital.net/alkass1-p/mux_video_360p_ts/index-1.m3u8
+
+# جودة جيدة 480p
+#EXT-X-STREAM-INF:BANDWIDTH=2700000,RESOLUTION=852x480,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://liveeu-gcp.alkassdigital.net/alkass1-p/mux_video_480p_ts/index-1.m3u8
+
+# جودة عالية 720p
+#EXT-X-STREAM-INF:BANDWIDTH=4870000,RESOLUTION=1280x720,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://liveeu-gcp.alkassdigital.net/alkass1-p/mux_video_720p_ts/index-1.m3u8
+
+# جودة فائقة 1080p
+#EXT-X-STREAM-INF:BANDWIDTH=9400000,RESOLUTION=1920x1080,FRAME-RATE=50.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+https://liveeu-gcp.alkassdigital.net/alkass1-p/mux_video_1080p_ts/index-1.m3u8
