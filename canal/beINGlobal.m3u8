@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://fuego-iptv.net/play/live.php?mac=00:1A:79:4E:54:58&stream=22199&extension=m3u8
+http://45.87.35.12:7116/stream
