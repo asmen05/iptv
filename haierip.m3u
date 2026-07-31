@@ -1,485 +1,477 @@
 #EXTM3U
-#EXTINF:-1,"-------CANALSATFR--------"
+#EXTINF:-1,group-title="france"
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76429
-#EXTINF:-1,FR: TF1 FHD
+#EXTINF:-1,group-title="france", TF1 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76431
-#EXTINF:-1,FR: France 2 HD
+#EXTINF:-1,group-title="france", France 2 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76432
-#EXTINF:-1,FR: FRANCE 2 FHD
+#EXTINF:-1,group-title="france", FRANCE 2 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76433
-#EXTINF:-1,FR: France 3 HD
+#EXTINF:-1,group-title="france", France 3 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76434
-#EXTINF:-1,FR: FRANCE 3 FHD
+#EXTINF:-1,group-title="france", FRANCE 3 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76435
-#EXTINF:-1,FR: France 4 HD
+#EXTINF:-1,group-title="france", France 4 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76436
-#EXTINF:-1,FR: FRANCE 4 FHD
+#EXTINF:-1,group-title="france", FRANCE 4 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76437
-#EXTINF:-1,FR: France 5 HD
+#EXTINF:-1,group-title="france", France 5 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76438
-#EXTINF:-1,FR: FRANCE 5 FHD
+#EXTINF:-1,group-title="france", FRANCE 5 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76439
-#EXTINF:-1,FR: FRANCE O HD
+#EXTINF:-1,group-title="france", FRANCE O HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76440
-#EXTINF:-1,FR: M6 FHD
+#EXTINF:-1,group-title="france", M6 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76441
-#EXTINF:-1,FR: 6TER FHD
+#EXTINF:-1,group-title="france", 6TER FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76442
-#EXTINF:-1,FR: NRJ12 FHD
+#EXTINF:-1,group-title="france", NRJ12 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76443
-#EXTINF:-1,FR: TV-BREIZH HD
+#EXTINF:-1,group-title="france", TV-BREIZH HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76444
-#EXTINF:-1,"-------INFORMATIONFR-------"
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76445
-#EXTINF:-1,FR: BFM TV FHD
+
+#EXTINF:-1,group-title="france", BFM TV FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76446
-#EXTINF:-1,FR:BFM-PARIS HD
+#EXTINF:-1,group-title="france",BFM-PARIS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76447
-#EXTINF:-1,FR: CNEWS FHD
+#EXTINF:-1,group-title="france", CNEWS FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76448
-#EXTINF:-1,FR: LCI HD
+#EXTINF:-1,group-title="france", LCI HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76449
-#EXTINF:-1,FR: CHERIE 25 FHD
+#EXTINF:-1,group-title="france", CHERIE 25 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76450
-#EXTINF:-1,FR: FRANCE INFO HD
+#EXTINF:-1,group-title="france", FRANCE INFO HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76451
-#EXTINF:-1,FR: EURONEWS HD
+#EXTINF:-1,group-title="france", EURONEWS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76452
-#EXTINF:-1,FR: TV5 MONDE HD
+#EXTINF:-1,group-title="france", TV5 MONDE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76453
-#EXTINF:-1,FR: i24 News HD
+#EXTINF:-1,group-title="france", i24 News HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76454
-#EXTINF:-1,FR: France 24 HD
+#EXTINF:-1,group-title="france", France 24 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76455
-#EXTINF:-1,"---------SPORTFR--------"
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76456
-#EXTINF:-1,FR: CANAL + SPORT HD
+
+#EXTINF:-1,group-title="france", CANAL + SPORT HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76457
-#EXTINF:-1,FR: RMC Sport 1 HD
+#EXTINF:-1,group-title="france", RMC Sport 1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76458
-#EXTINF:-1,FR: RMC SPORT 1 FHD
+#EXTINF:-1,group-title="france", RMC SPORT 1 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76459
-#EXTINF:-1,FR: RMC Sport 2 HD
+#EXTINF:-1,group-title="france", RMC Sport 2 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76460
-#EXTINF:-1,FR: RMC SPORT 2FHD
+#EXTINF:-1,group-title="france", RMC SPORT 2FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76461
-#EXTINF:-1,FR: RMC Sport 3 HD
+#EXTINF:-1,group-title="france", RMC Sport 3 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76462
-#EXTINF:-1,FR: RMC SPORT 3 FHD
+#EXTINF:-1,group-title="france", RMC SPORT 3 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76463
-#EXTINF:-1,FR: RMC Sport 4 HD
+#EXTINF:-1,group-title="france", RMC Sport 4 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76464
-#EXTINF:-1,FR: RMC SPORT 4 FHD
+#EXTINF:-1,group-title="france", RMC SPORT 4 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76465
-#EXTINF:-1,FR: RMC Sport Live 5 HD
+#EXTINF:-1,group-title="france", RMC Sport Live 5 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76466
-#EXTINF:-1,FR: RMC Sport Live 6 HD
+#EXTINF:-1,group-title="france", RMC Sport Live 6 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76467
-#EXTINF:-1,FR: RMC Sport Live 7 HD
+#EXTINF:-1,group-title="france", RMC Sport Live 7 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76468
-#EXTINF:-1,FR: RMC Sport Live 8 HD
+#EXTINF:-1,group-title="france", RMC Sport Live 8 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76469
-#EXTINF:-1,FR: RMC Sport Live 9 HD
+#EXTINF:-1,group-title="france", RMC Sport Live 9 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76470
-#EXTINF:-1,FR: RMC Sport 1 Access HD
+#EXTINF:-1,group-title="france", RMC Sport 1 Access HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76471
-#EXTINF:-1,FR: RMC Sport 2 Access HD
+#EXTINF:-1,group-title="france", RMC Sport 2 Access HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76472
-#EXTINF:-1,FR: BEIN SPORTS 1 FHD
+#EXTINF:-1,group-title="france", BEIN SPORTS 1 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76473
-#EXTINF:-1,FR: BEINSPORT 2 FHD
+#EXTINF:-1,group-title="france", BEINSPORT 2 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76474
-#EXTINF:-1,FR: BEINSPORT 3 FHD
+#EXTINF:-1,group-title="france", BEINSPORT 3 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76475
-#EXTINF:-1,FR: BeIN Sports 1 HD
+#EXTINF:-1,group-title="france", BeIN Sports 1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76476
-#EXTINF:-1,FR: BeIN Sports 2 HD
+#EXTINF:-1,group-title="france", BeIN Sports 2 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76477
-#EXTINF:-1,FR: BeIN Sports 3 HD
+#EXTINF:-1,group-title="france", BeIN Sports 3 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76478
-#EXTINF:-1,FR: BeIN Sports MAX 4 HD
+#EXTINF:-1,group-title="france", BeIN Sports MAX 4 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76479
-#EXTINF:-1,FR: BeIN Sports MAX 5 HD
+#EXTINF:-1,group-title="france", BeIN Sports MAX 5 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76480
-#EXTINF:-1,FR: BeIN Sports MAX 6 HD
+#EXTINF:-1,group-title="france", BeIN Sports MAX 6 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76481
-#EXTINF:-1,FR: BeIN Sports MAX 7 HD
+#EXTINF:-1,group-title="france", BeIN Sports MAX 7 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76482
-#EXTINF:-1,FR: BeIN Sports MAX 8 HD
+#EXTINF:-1,group-title="france", BeIN Sports MAX 8 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76483
-#EXTINF:-1,FR: BeIN Sports MAX 9 HD
+#EXTINF:-1,group-title="france", BeIN Sports MAX 9 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76484
-#EXTINF:-1,FR: BeIN Sports MAX 10 HD
+#EXTINF:-1,group-title="france", BeIN Sports MAX 10 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76485
-#EXTINF:-1,FR: EUROSPORT 1 HD
+#EXTINF:-1,group-title="france", EUROSPORT 1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76486
-#EXTINF:-1,FR: EUROSPORT 2 HD
+#EXTINF:-1,group-title="france", EUROSPORT 2 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76487
-#EXTINF:-1,FR: INFOSPORT + HD
+#EXTINF:-1,group-title="france", INFOSPORT + HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76488
-#EXTINF:-1,FR: INFOSPORT FHD
+#EXTINF:-1,group-title="france", INFOSPORT FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76489
-#EXTINF:-1,FR: FOOT +  24 HD
+#EXTINF:-1,group-title="france", FOOT +  24 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76490
-#EXTINF:-1,FR: PARIS-PREMIERE HD
+#EXTINF:-1,group-title="france", PARIS-PREMIERE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76491
-#EXTINF:-1,FR: GOLF CHANNEL HD
+#EXTINF:-1,group-title="france", GOLF CHANNEL HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76492
-#EXTINF:-1,FR: GOLF+ HD
+#EXTINF:-1,group-title="france", GOLF+ HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76493
-#EXTINF:-1,FR: SPORTS EN FRANCE HD
+#EXTINF:-1,group-title="france", SPORTS EN FRANCE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76494
-#EXTINF:-1,FR: CANAL + SPORT FHD
+#EXTINF:-1,group-title="france", CANAL + SPORT FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76495
-#EXTINF:-1,FR: GINX ESPORTS HD
+#EXTINF:-1,group-title="france", GINX ESPORTS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76496
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO 8 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO 8 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76497
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO 7 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO 7 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76498
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO 6 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO 6 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76499
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO 5 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO 5 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76500
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO  4 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO  4 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76501
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO 3 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO 3 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76502
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO 2 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO 2 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76503
-#EXTINF:-1,FR: LIGUE 1 PRIME VIDEO 1 FHD
+#EXTINF:-1,group-title="france", LIGUE 1 PRIME VIDEO 1 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76504
-#EXTINF:-1,"--------CINEMAFR--------"
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76505
-#EXTINF:-1,FR: CANAL+HD
+
+#EXTINF:-1,group-title="france", CANAL+HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76506
-#EXTINF:-1,FR: CANAL + FHD
+#EXTINF:-1,group-title="france", CANAL + FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76507
-#EXTINF:-1,FR: CANAL+ SERIES HD
+#EXTINF:-1,group-title="france", CANAL+ SERIES HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76508
-#EXTINF:-1,FR: CANAL+ SERIES FHD
+#EXTINF:-1,group-title="france", CANAL+ SERIES FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76509
-#EXTINF:-1,FR: CANAL+ FAMILY HD
+#EXTINF:-1,group-title="france", CANAL+ FAMILY HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76510
-#EXTINF:-1,FR: CANAL + FAMILY FHD
+#EXTINF:-1,group-title="france", CANAL + FAMILY FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76511
-#EXTINF:-1,FR: CANAL+ DECALE HD
+#EXTINF:-1,group-title="france", CANAL+ DECALE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76512
-#EXTINF:-1,FR: CANAL + DECALE FHD
+#EXTINF:-1,group-title="france", CANAL + DECALE FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76513
-#EXTINF:-1,FR: CANAL+ CINEMA HD
+#EXTINF:-1,group-title="france", CANAL+ CINEMA HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76514
-#EXTINF:-1,FR: CANAL+CINEMA FHD
+#EXTINF:-1,group-title="france", CANAL+CINEMA FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76515
-#EXTINF:-1,FR: CINE+ PREMIER HD
+#EXTINF:-1,group-title="france", CINE+ PREMIER HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76516
-#EXTINF:-1,FR: CINE+ FRISSON HD
+#EXTINF:-1,group-title="france", CINE+ FRISSON HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76517
-#EXTINF:-1,FR: CINE+FRISSON FHD
+#EXTINF:-1,group-title="france", CINE+FRISSON FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76518
-#EXTINF:-1,FR: CINE+ FAMIZ HD
+#EXTINF:-1,group-title="france", CINE+ FAMIZ HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76519
-#EXTINF:-1,FR: CINE+FAMIZ FHD
+#EXTINF:-1,group-title="france", CINE+FAMIZ FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76520
-#EXTINF:-1,FR: CINE+ CLASSIC HD
+#EXTINF:-1,group-title="france", CINE+ CLASSIC HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76521
-#EXTINF:-1,FR: CINE + CLASSIC FHD
+#EXTINF:-1,group-title="france", CINE + CLASSIC FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76522
-#EXTINF:-1,FR: CINE+ CLUB HD
+#EXTINF:-1,group-title="france", CINE+ CLUB HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76523
-#EXTINF:-1,FR: CINE + CLUB FHD
+#EXTINF:-1,group-title="france", CINE + CLUB FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76524
-#EXTINF:-1,FR: CINE + EMOTION HD
+#EXTINF:-1,group-title="france", CINE + EMOTION HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76525
-#EXTINF:-1,FR: CINE  EMOTION FHD
+#EXTINF:-1,group-title="france", CINE  EMOTION FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76526
-#EXTINF:-1,FR: Comedie + HD
+#EXTINF:-1,group-title="france", Comedie + HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76527
-#EXTINF:-1,FR: COMEDIE+  FHD
+#EXTINF:-1,group-title="france", COMEDIE+  FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76528
-#EXTINF:-1,FR: ALTICE STUDIO HD
+#EXTINF:-1,group-title="france", ALTICE STUDIO HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76529
-#EXTINF:-1,FR: TCM CINEMA HD
+#EXTINF:-1,group-title="france", TCM CINEMA HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76530
-#EXTINF:-1,FR: OCS MAX HD
+#EXTINF:-1,group-title="france", OCS MAX HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76531
-#EXTINF:-1,FR: OCS MAX FHD
+#EXTINF:-1,group-title="france", OCS MAX FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76532
-#EXTINF:-1,FR: OCS GEANTS HD
+#EXTINF:-1,group-title="france", OCS GEANTS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76533
-#EXTINF:-1,FR: OCS GEANTS FHD
+#EXTINF:-1,group-title="france", OCS GEANTS FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76534
-#EXTINF:-1,FR: OCS CHOC HD
+#EXTINF:-1,group-title="france", OCS CHOC HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76535
-#EXTINF:-1,FR: OCS CITY FHD
+#EXTINF:-1,group-title="france", OCS CITY FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76536
-#EXTINF:-1,FR: Paramount Channel HD
+#EXTINF:-1,group-title="france", Paramount Channel HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76537
-#EXTINF:-1,FR: Paramount Channel Decale HD
+#EXTINF:-1,group-title="france", Paramount Channel Decale HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76538
-#EXTINF:-1,FR: TF1 SERIE FILM HD
+#EXTINF:-1,group-title="france", TF1 SERIE FILM HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76539
-#EXTINF:-1,FR: TF1 SERIES/FILMS FHD
+#EXTINF:-1,group-title="france", TF1 SERIES/FILMS FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76540
-#EXTINF:-1,FR: POLAR + HD
+#EXTINF:-1,group-title="france", POLAR + HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76541
-#EXTINF:-1,FR: SERIE CLUB FHD
+#EXTINF:-1,group-title="france", SERIE CLUB FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76542
-#EXTINF:-1,FR: TCM CINEMA FHD
+#EXTINF:-1,group-title="france", TCM CINEMA FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76543
-#EXTINF:-1,FR: ACTION FHD
+#EXTINF:-1,group-title="france", ACTION FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76544
-#EXTINF:-1,FR: COMEDY CENTRAL HD
+#EXTINF:-1,group-title="france", COMEDY CENTRAL HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76545
-#EXTINF:-1,FR: SYFY FHD
+#EXTINF:-1,group-title="france", SYFY FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76546
-#EXTINF:-1,FR: MY COMEDY HD
+#EXTINF:-1,group-title="france", MY COMEDY HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76547
-#EXTINF:-1,FR: SEASONS HD
+#EXTINF:-1,group-title="france", SEASONS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76548
-#EXTINF:-1,"-----------SERIESFR------------"
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76549
-#EXTINF:-1,FR: CSTAR FHD
+
+#EXTINF:-1,group-title="france", CSTAR FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76550
-#EXTINF:-1,FR: AB1 HD
+#EXTINF:-1,group-title="france", AB1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76551
-#EXTINF:-1,FR: AB1 FHD
+#EXTINF:-1,group-title="france", AB1 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76552
-#EXTINF:-1,FR: AB3 HD
+#EXTINF:-1,group-title="france", AB3 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76553
-#EXTINF:-1,FR: AB3 FHD
+#EXTINF:-1,group-title="france", AB3 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76554
-#EXTINF:-1,FR:ACTION HD
+#EXTINF:-1,group-title="france",ACTION HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76555
-#EXTINF:-1,FR: W9 HD
+#EXTINF:-1,group-title="france", W9 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76556
-#EXTINF:-1,FR: C8 HD
+#EXTINF:-1,group-title="france", C8 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76557
-#EXTINF:-1,FR: TEVA HD
+#EXTINF:-1,group-title="france", TEVA HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76558
-#EXTINF:-1,FR: 13EME RUE HD
+#EXTINF:-1,group-title="france", 13EME RUE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76559
-#EXTINF:-1,FR: TFX HD
+#EXTINF:-1,group-title="france", TFX HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76560
-#EXTINF:-1,FR: SYFY HD
+#EXTINF:-1,group-title="france", SYFY HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76561
-#EXTINF:-1,FR: SERIE CLUB HD
+#EXTINF:-1,group-title="france", SERIE CLUB HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76562
-#EXTINF:-1,FR: SCIENCES & VIE HD
+#EXTINF:-1,group-title="france", SCIENCES & VIE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76563
-#EXTINF:-1,FR: RTL 9 HD
+#EXTINF:-1,group-title="france", RTL 9 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76564
-#EXTINF:-1,FR: WARNER HD
+#EXTINF:-1,group-title="france", WARNER HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76565
-#EXTINF:-1,FR: RMC STORY HD
+#EXTINF:-1,group-title="france", RMC STORY HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76566
-#EXTINF:-1,"-------ENFANTSFR-------"
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76567
-#EXTINF:-1,FR: NICKELODEON HD
+
+#EXTINF:-1,group-title="france", NICKELODEON HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76568
-#EXTINF:-1,FR: TELETOON + HD
+#EXTINF:-1,group-title="france", TELETOON + HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76569
-#EXTINF:-1,FR: MANGAS HD
+#EXTINF:-1,group-title="france", MANGAS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76570
-#EXTINF:-1,FR: J-ONE HD
+#EXTINF:-1,group-title="france", J-ONE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76571
-#EXTINF:-1,FR: DISNEY XD HD
+#EXTINF:-1,group-title="france", DISNEY XD HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76572
-#EXTINF:-1,FR: DISNEY JUNIOR HD
+#EXTINF:-1,group-title="france", DISNEY JUNIOR HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76573
-#EXTINF:-1,FR: DISNEY JUNIOR FHD
+#EXTINF:-1,group-title="france", DISNEY JUNIOR FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76574
-#EXTINF:-1,FR: DISNEY CINEMA HD
+#EXTINF:-1,group-title="france", DISNEY CINEMA HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76575
-#EXTINF:-1,FR: DISNEY CHANNEL HD
+#EXTINF:-1,group-title="france", DISNEY CHANNEL HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76576
-#EXTINF:-1,FR: DISNEY CHANNEL FHD
+#EXTINF:-1,group-title="france", DISNEY CHANNEL FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76577
-#EXTINF:-1,FR: CARTOON NETWORK HD
+#EXTINF:-1,group-title="france", CARTOON NETWORK HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76578
-#EXTINF:-1,FR: CANAL + J HD
+#EXTINF:-1,group-title="france", CANAL + J HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76579
-#EXTINF:-1,FR: Baby TV
+#EXTINF:-1,group-title="france", Baby TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76580
-#EXTINF:-1,FR: Game One HD
+#EXTINF:-1,group-title="france", Game One HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76581
-#EXTINF:-1,FR: BOOMERANG HD
+#EXTINF:-1,group-title="france", BOOMERANG HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76582
-#EXTINF:-1,FR: BOOMERANG FHD
+#EXTINF:-1,group-title="france", BOOMERANG FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76583
-#EXTINF:-1,FR: BOOMERANG +1 HD
+#EXTINF:-1,group-title="france", BOOMERANG +1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76584
-#EXTINF:-1,FR: DISNEY + HD
+#EXTINF:-1,group-title="france", DISNEY + HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76585
-#EXTINF:-1,FR: NICKELODEON FHD
+#EXTINF:-1,group-title="france", NICKELODEON FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76586
-#EXTINF:-1,FR: NICKELODEON JUNIOR HD
+#EXTINF:-1,group-title="france", NICKELODEON JUNIOR HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76587
-#EXTINF:-1,FR: NICKELODEON JUNIOR FHD
+#EXTINF:-1,group-title="france", NICKELODEON JUNIOR FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76588
-#EXTINF:-1,FR: NICKELODEON 4TEEN HD
+#EXTINF:-1,group-title="france", NICKELODEON 4TEEN HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76589
-#EXTINF:-1,"---------CULTUREFR---------"
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76590
-#EXTINF:-1,FR: ARTE
+
+#EXTINF:-1,group-title="france", ARTE
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76591
-#EXTINF:-1,FR: DISCOVERY HD
+#EXTINF:-1,group-title="france", DISCOVERY HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76592
-#EXTINF:-1,FR: DISCOVERY FHD
+#EXTINF:-1,group-title="france", DISCOVERY FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76593
-#EXTINF:-1,FR: DISCOVERY SCIENCE HD
+#EXTINF:-1,group-title="france", DISCOVERY SCIENCE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76594
-#EXTINF:-1,FR: DISCOVERY SCIENCE FHD
+#EXTINF:-1,group-title="france", DISCOVERY SCIENCE FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76595
-#EXTINF:-1,FR: DISCOVERY-INVESTIGATION HD
+#EXTINF:-1,group-title="france", DISCOVERY-INVESTIGATION HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76596
-#EXTINF:-1,FR: DISCOVERY-FAMILY HD
+#EXTINF:-1,group-title="france", DISCOVERY-FAMILY HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76597
-#EXTINF:-1,FR: E! ENTERTAINMENT FHD
+#EXTINF:-1,group-title="france", E! ENTERTAINMENT FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76598
-#EXTINF:-1,FR: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1,group-title="france", NATIONAL GEOGRAPHIC HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76599
-#EXTINF:-1,FR: NATIONAL-GEO WILD HD
+#EXTINF:-1,group-title="france", NATIONAL-GEO WILD HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76600
-#EXTINF:-1,FR: PLANETE + CI FHD
+#EXTINF:-1,group-title="france", PLANETE + CI FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76601
-#EXTINF:-1,FR: TOUTE L'HISTOIRE HD
+#EXTINF:-1,group-title="france", TOUTE L'HISTOIRE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76602
-#EXTINF:-1,FR: PLANETE + A&E HD
+#EXTINF:-1,group-title="france", PLANETE + A&E HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76603
-#EXTINF:-1,FR: PLANETE + HD
+#EXTINF:-1,group-title="france", PLANETE + HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76604
-#EXTINF:-1,FR: LCP FHD
+#EXTINF:-1,group-title="france", LCP FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76605
-#EXTINF:-1,FR: HISTOIRE HD
+#EXTINF:-1,group-title="france", HISTOIRE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76606
-#EXTINF:-1,FR: CRIME DISTRICT HD
+#EXTINF:-1,group-title="france", CRIME DISTRICT HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76607
-#EXTINF:-1,FR:ANIMAUX HD
+#EXTINF:-1,group-title="france",ANIMAUX HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76608
-#EXTINF:-1,FR: RMC DECOUVERTE HD
+#EXTINF:-1,group-title="france", RMC DECOUVERTE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76609
-#EXTINF:-1,FR: E! ENTERTAINEMENT HD
+#EXTINF:-1,group-title="france", E! ENTERTAINEMENT HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76610
-#EXTINF:-1,FR: CHASSE & PECHE HD
+#EXTINF:-1,group-title="france", CHASSE & PECHE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76611
-#EXTINF:-1,"--------MUSIQUEFR---------"
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76612
-#EXTINF:-1,FR: MTV HD
+
+#EXTINF:-1,group-title="france", MTV HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76613
-#EXTINF:-1,FR: MCM Top HD
+#EXTINF:-1,group-title="france", MCM Top HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76614
-#EXTINF:-1,FR: MCM POP
+#EXTINF:-1,group-title="france", MCM POP
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76615
-#EXTINF:-1,FR: MCM
+#EXTINF:-1,group-title="france", MCM
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76616
-#EXTINF:-1,FR: VH1 HD
+#EXTINF:-1,group-title="france", VH1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76617
-#EXTINF:-1,FR: Trace Tropical HD
+#EXTINF:-1,group-title="france", Trace Tropical HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76618
-#EXTINF:-1,FR: Trace Toca HD
+#EXTINF:-1,group-title="france", Trace Toca HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76619
-#EXTINF:-1,FR: Trace Naija HD
+#EXTINF:-1,group-title="france", Trace Naija HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76620
-#EXTINF:-1,FR: Trace Kitoko
+#EXTINF:-1,group-title="france", Trace Kitoko
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76621
-#EXTINF:-1,FR: M6 HD
+#EXTINF:-1,group-title="france", M6 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76622
-#EXTINF:-1,FR: M6 Music HD
+#EXTINF:-1,group-title="france", M6 Music HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76623
-#EXTINF:-1,FR: Mezzo
+#EXTINF:-1,group-title="france", Mezzo
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76624
-#EXTINF:-1,FR: MEZZO LIVE HD
+#EXTINF:-1,group-title="france", MEZZO LIVE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76625
-#EXTINF:-1,FR: MTV HITS HD
+#EXTINF:-1,group-title="france", MTV HITS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76626
-#EXTINF:-1,FR: TRACE GOSPEL HD
+#EXTINF:-1,group-title="france", TRACE GOSPEL HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76627
-#EXTINF:-1,FR: NRJ HITS HD
+#EXTINF:-1,group-title="france", NRJ HITS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76628
-#EXTINF:-1,FR: TMC HD
+#EXTINF:-1,group-title="france", TMC HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76629
-#EXTINF:-1,FR: TRACE URBAN HD
+#EXTINF:-1,group-title="france", TRACE URBAN HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76630
-#EXTINF:-1,FR: TRACE MZIKI HD
+#EXTINF:-1,group-title="france", TRACE MZIKI HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76631
-#EXTINF:-1,-----EXCLUSIVITES-----
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76632
-#EXTINF:-1,FR: AUTO MOTO HD
+
+#EXTINF:-1,group-title="france", AUTO MOTO HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76633
-#EXTINF:-1,FR: BFM TV HD
+#EXTINF:-1,group-title="france", BFM TV HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76634
-#EXTINF:-1,FR: BFM Business HD
+#EXTINF:-1,group-title="france", BFM Business HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76635
-#EXTINF:-1,FR: BOING HD
+#EXTINF:-1,group-title="france", BOING HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76636
-#EXTINF:-1,FR: BET FHD
+#EXTINF:-1,group-title="france", BET FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76637
-#EXTINF:-1,FR: BET HD
+#EXTINF:-1,group-title="france", BET HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76638
-#EXTINF:-1,FR: C8 FHD
+#EXTINF:-1,group-title="france", C8 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76639
-#EXTINF:-1,FR: CNEWS HD
+#EXTINF:-1,group-title="france", CNEWS HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76640
-#EXTINF:-1,FR: CSTAR HD
+#EXTINF:-1,group-title="france", CSTAR HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76641
-#EXTINF:-1,FR: CHERIE 25 HD
+#EXTINF:-1,group-title="france", CHERIE 25 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76642
-#EXTINF:-1,FR: CANAL J FHD
+#EXTINF:-1,group-title="france", CANAL J FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76643
-#EXTINF:-1,FR: ELLE GIRL HD
+#EXTINF:-1,group-title="france", ELLE GIRL HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76644
-#EXTINF:-1,FR: EQUIDIA LIVE HD
+#EXTINF:-1,group-title="france", EQUIDIA LIVE HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76645
-#EXTINF:-1,FR: ES1 HD
+#EXTINF:-1,group-title="france", ES1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76646
-#EXTINF:-1,FR: EQUIDIA LIVE FHD
+#EXTINF:-1,group-title="france", EQUIDIA LIVE FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76647
-#EXTINF:-1,FR: FASHION TV HD
+#EXTINF:-1,group-title="france", FASHION TV HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76648
-#EXTINF:-1,FR: GAME ONE +1 HD
+#EXTINF:-1,group-title="france", GAME ONE +1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76649
-#EXTINF:-1,FR: Gulli HD
+#EXTINF:-1,group-title="france", Gulli HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76650
-#EXTINF:-1,FR: RFM TV FULL HD
+#EXTINF:-1,group-title="france", RFM TV FULL HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76651
-#EXTINF:-1,FR: RTL9 FHD
+#EXTINF:-1,group-title="france", RTL9 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76652
-#EXTINF:-1,FR: TOONAMI HD
+#EXTINF:-1,group-title="france", TOONAMI HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76653
-#EXTINF:-1,FR: TREK HD
+#EXTINF:-1,group-title="france", TREK HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76654
-#EXTINF:-1,FR: TREK FHD
+#EXTINF:-1,group-title="france", TREK FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76655
-#EXTINF:-1,FR: Teva FHD
+#EXTINF:-1,group-title="france", Teva FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76656
-#EXTINF:-1,FR: TMC +1 HD
+#EXTINF:-1,group-title="france", TMC +1 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76657
-#EXTINF:-1,FR: POLAR+ FHD
+#EXTINF:-1,group-title="france", POLAR+ FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76658
-#EXTINF:-1,FR: PIWI+ FHD
+#EXTINF:-1,group-title="france", PIWI+ FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76659
-#EXTINF:-1,FR: W9 FHD
+#EXTINF:-1,group-title="france", W9 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76660
-#EXTINF:-1,FR: PIWI+ HD
+#EXTINF:-1,group-title="france", PIWI+ HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76661
-#EXTINF:-1,FR: KTO
+#EXTINF:-1,group-title="france", KTO
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76662
-#EXTINF:-1,FR: NRJ 12 HD
+#EXTINF:-1,group-title="france", NRJ 12 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76663
-#EXTINF:-1,FR: l'Equipe 21 HD
+#EXTINF:-1,group-title="france", l'Equipe 21 HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76664
-#EXTINF:-1,FR: Ushuaia TV HD
+#EXTINF:-1,group-title="france", Ushuaia TV HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76665
-#EXTINF:-1,FR: 13EME RUE FHD
+#EXTINF:-1,group-title="france", 13EME RUE FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76666
-#EXTINF:-1,FR: USHUAIA TV FHD
+#EXTINF:-1,group-title="france", USHUAIA TV FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76667
-#EXTINF:-1,FR: NRJ HITS FRANCE FHD
+#EXTINF:-1,group-title="france", NRJ HITS FRANCE FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76668
-#EXTINF:-1,FR: FOOT+ 24/24 FHD
+#EXTINF:-1,group-title="france", FOOT+ 24/24 FHD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76669
-#EXTINF:-1,FR: 6Ter HD
+#EXTINF:-1,group-title="france", 6Ter HD
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/76670
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="(FR) MBC Drama " tvg-logo="" group-title="FRANCE",(FR) MBC Drama 
 https://primexclusive.day:443/1444576/5450985/251912
@@ -1028,1357 +1020,159 @@ https://primexclusive.day:443/1444576/5450985/251909
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="FR | Warner TV Next" tvg-logo="" group-title="FRANCE",FR | Warner TV Next
 https://primexclusive.day:443/1444576/5450985/251714
 
-#EXTINF:-1,AR: ABN
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74902
-#EXTINF:-1,AR: Al Basira TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74903
-#EXTINF:-1,AR: Al Hadeth
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74904
-#EXTINF:-1,AR: Al Haneen
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74905
-#EXTINF:-1,AR: Al Hiwar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74906
-#EXTINF:-1,AR: Al Horreya TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74907
-#EXTINF:-1,AR: Al Kalema TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74908
-#EXTINF:-1,AR: Al Khalij TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74909
-#EXTINF:-1,AR: Al Magharibia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74910
-#EXTINF:-1,AR: AL Malakoot
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74911
-#EXTINF:-1,AR: Al Qamar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74912
-#EXTINF:-1,AR: Alaraby TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74913
-#EXTINF:-1,AR: Alaraby TV 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74914
-#EXTINF:-1,AR: Alkarma TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74915
-#EXTINF:-1,AR: Alkarma TV Discipleship
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74916
-#EXTINF:-1,AR: Alkarma TV Middle East
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74917
-#EXTINF:-1,AR: Alkarma TV North America and Canada
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74918
-#EXTINF:-1,AR: Alkeraza TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74919
-#EXTINF:-1,AR: Almagd TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74920
-#EXTINF:-1,AR: Almustakillah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74921
-#EXTINF:-1,AR: Amazon Prime
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74922
-#EXTINF:-1,AR: Amazon Prime 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74923
-#EXTINF:-1,AR: Amazon Prime 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74924
-#EXTINF:-1,AR: AMC
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74925
-#EXTINF:-1,AR: Apple Plus 8
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74926
-#EXTINF:-1,AR: Arab Tourism
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74927
-#EXTINF:-1,AR: Arab USA
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74928
-#EXTINF:-1,AR: AssyriaSat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74929
-#EXTINF:-1,AR: Baby TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74930
-#EXTINF:-1,AR: BBC Arabic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74931
-#EXTINF:-1,AR: BBC Earth
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74932
-#EXTINF:-1,AR: BeeDrama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74933
-#EXTINF:-1,AR: beIN Box Office 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74934
-#EXTINF:-1,AR: beIN Movies Family 4
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74935
-#EXTINF:-1,AR: beIN Series 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74936
-#EXTINF:-1,AR: beIN Series 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74937
-#EXTINF:-1,AR: BeoutQ Action
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74938
-#EXTINF:-1,AR: BeoutQ Cinema
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74939
-#EXTINF:-1,AR: BeoutQ Movies
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74940
-#EXTINF:-1,AR: Boomerang
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74941
-#EXTINF:-1,AR: C Sat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74942
-#EXTINF:-1,AR: Cartoon Network Arabic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74943
-#EXTINF:-1,AR: Cima
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74944
-#EXTINF:-1,AR: Cinema One
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74945
-#EXTINF:-1,AR: CNBC Arabiya
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74946
-#EXTINF:-1,AR: Crime+ Investigation
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74947
-#EXTINF:-1,AR: Discovery Family
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74948
-#EXTINF:-1,AR: Discovery Science
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74949
-#EXTINF:-1,AR: Discovery world
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74950
-#EXTINF:-1,AR: Disney Channel
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74951
-#EXTINF:-1,AR: Disney Junior
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74952
-#EXTINF:-1,AR: EL Fadi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74953
-#EXTINF:-1,AR: Elmouritania
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74954
-#EXTINF:-1,AR: Elmouritania 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74955
-#EXTINF:-1,AR: Eman Channel
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74956
-#EXTINF:-1,AR: Fayrouz
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74957
-#EXTINF:-1,AR: Fix & Foxi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74958
-#EXTINF:-1,AR: Fozi Mozi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74959
-#EXTINF:-1,AR: France 24
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74960
-#EXTINF:-1,AR: GRENDIZER
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74961
-#EXTINF:-1,AR: HAWAS TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74962
-#EXTINF:-1,AR: Hekayat Alamya
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74963
-#EXTINF:-1,AR: History 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74964
-#EXTINF:-1,AR: HOME CINEMA 01
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74965
-#EXTINF:-1,AR: HOME CINEMA 02
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74966
-#EXTINF:-1,AR: HOME CINEMA 03
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74967
-#EXTINF:-1,AR: HOME CINEMA 04
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74968
-#EXTINF:-1,AR: HOME CINEMA 05
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74969
-#EXTINF:-1,AR: HOME CINEMA 06
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74970
-#EXTINF:-1,AR: HOME CINEMA 08
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74971
-#EXTINF:-1,AR: HOME CINEMA 10
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74972
-#EXTINF:-1,AR: HOME CINEMA 11
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74973
-#EXTINF:-1,AR: HOME CINEMA 13
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74974
-#EXTINF:-1,AR: HOME CINEMA 15
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74975
-#EXTINF:-1,AR: Home Cinema Action 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74976
-#EXTINF:-1,AR: Home Cinema Arabic 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74977
-#EXTINF:-1,AR: Home Cinema Hindi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74978
-#EXTINF:-1,AR: Home Cinema Horror
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74979
-#EXTINF:-1,AR: Home Cinema Kids 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74980
-#EXTINF:-1,AR: Home Cinema Kids 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74981
-#EXTINF:-1,AR: Investigation Discovery
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74982
-#EXTINF:-1,AR: Kan Ya Makan Alhayat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74983
-#EXTINF:-1,AR: KIDS Al Sanafer
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74984
-#EXTINF:-1,AR: kids co
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74985
-#EXTINF:-1,AR: Kids Nils
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74986
-#EXTINF:-1,AR: Majestic 1 Action
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74987
-#EXTINF:-1,AR: Majestic 1 Cartoon
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74988
-#EXTINF:-1,AR: Majestic 1 Cinema
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74989
-#EXTINF:-1,AR: Majestic 1 Horror
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74990
-#EXTINF:-1,AR: Majestic 1 Horror H263
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74991
-#EXTINF:-1,AR: Majestic 1 Series
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74992
-#EXTINF:-1,AR: Majestic 1 Zaman
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74993
-#EXTINF:-1,AR: Majestic Action
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74994
-#EXTINF:-1,AR: Majestic Action 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74995
-#EXTINF:-1,AR: Majestic Aflam
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74996
-#EXTINF:-1,AR: Majestic Cinema
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74997
-#EXTINF:-1,AR: Majestic Cinema 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74998
-#EXTINF:-1,AR: Majestic Cinema 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/74999
-#EXTINF:-1,AR: Majestic Horror
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75000
-#EXTINF:-1,AR: Majestic Kids
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75001
-#EXTINF:-1,AR: Majestic Masra7yat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75002
-#EXTINF:-1,AR: Majestic Masra7yat Plus
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75003
-#EXTINF:-1,AR: Majestic Netflix 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75004
-#EXTINF:-1,AR: Majestic Zaman
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75005
-#EXTINF:-1,AR: Marah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75006
-#EXTINF:-1,AR: Marvel 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75007
-#EXTINF:-1,AR: Marvel 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75008
-#EXTINF:-1,AR: Marvel 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75009
-#EXTINF:-1,AR: Marvel 4
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75010
-#EXTINF:-1,AR: Marvel 5
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75011
-#EXTINF:-1,AR: Masha & the Bear
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75012
-#EXTINF:-1,AR: Miracle Channel
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75013
-#EXTINF:-1,AR: MTA 3 Al Arabia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75014
-#EXTINF:-1,AR: Muzik
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75015
-#EXTINF:-1,AR: My Cinema 10
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75016
-#EXTINF:-1,AR: My Cinema 11
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75017
-#EXTINF:-1,AR: My Cinema 12
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75018
-#EXTINF:-1,AR: National Geographic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75019
-#EXTINF:-1,AR: Netflix 4K
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75020
-#EXTINF:-1,AR: Netflix Action 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75021
-#EXTINF:-1,AR: Netflix Action 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75022
-#EXTINF:-1,AR: Netflix Action 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75023
-#EXTINF:-1,AR: Netflix Action 4
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75024
-#EXTINF:-1,AR: Netflix Action 5
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75025
-#EXTINF:-1,AR: Netflix Action 6
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75026
-#EXTINF:-1,AR: Netflix Adventure
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75027
-#EXTINF:-1,AR: Netflix Arabic 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75028
-#EXTINF:-1,AR: Netflix Arabic 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75029
-#EXTINF:-1,AR: NETFLIX Box Office
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75030
-#EXTINF:-1,AR: Netflix Comedy
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75031
-#EXTINF:-1,AR: Netflix Comedy 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75032
-#EXTINF:-1,AR: Netflix Crime 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75033
-#EXTINF:-1,AR: NETFLIX DISNEY
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75034
-#EXTINF:-1,AR: Netflix Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75035
-#EXTINF:-1,AR: Netflix Horror
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75036
-#EXTINF:-1,AR: Netflix Horror 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75037
-#EXTINF:-1,AR: NETFLIX INDIAN 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75038
-#EXTINF:-1,AR: Netflix JR 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75039
-#EXTINF:-1,AR: Netflix Kung Fu
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75040
-#EXTINF:-1,AR: Netflix Sci-Fi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75041
-#EXTINF:-1,AR: NETFLIX SPANISH 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75042
-#EXTINF:-1,AR: NETFLIX TURKISH
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75043
-#EXTINF:-1,AR: Nickelodeon
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75044
-#EXTINF:-1,AR: Oggy TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75045
-#EXTINF:-1,AR: Oscar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75046
-#EXTINF:-1,AR: OSN Movies Box Office 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75047
-#EXTINF:-1,AR: OSN Movies Box Office 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75048
-#EXTINF:-1,AR: OSN Movies Thriller
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75049
-#EXTINF:-1,AR: OSN Music Now
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75050
-#EXTINF:-1,AR: Pink Panther
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75051
-#EXTINF:-1,AR: Premiere Movies
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75052
-#EXTINF:-1,AR: Ragheb Alama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75053
-#EXTINF:-1,AR: Remaas
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75054
-#EXTINF:-1,AR: RT Arabic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75055
-#EXTINF:-1,AR: Sahel TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75056
-#EXTINF:-1,AR: Sarhan TV Classic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75057
-#EXTINF:-1,AR: Sasuki
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75058
-#EXTINF:-1,AR: Sat 7 Arabic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75059
-#EXTINF:-1,AR: Sat 7 Kids
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75060
-#EXTINF:-1,AR: Seraj
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75061
-#EXTINF:-1,AR: Shahid
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75062
-#EXTINF:-1,AR: Shahid Action 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75063
-#EXTINF:-1,AR: Shahid Adventure 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75064
-#EXTINF:-1,AR: Shahid Aflam
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75065
-#EXTINF:-1,AR: Shahid Aflam 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75066
-#EXTINF:-1,AR: Shahid Aflam 6
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75067
-#EXTINF:-1,AR: Shahid Aflam 7
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75068
-#EXTINF:-1,AR: Shahid Arabia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75069
-#EXTINF:-1,AR: Shahid Family 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75070
-#EXTINF:-1,AR: Shahid mactv
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75071
-#EXTINF:-1,AR: Shahid Mosalsalat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75072
-#EXTINF:-1,AR: Shahid Schi-Fi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75073
-#EXTINF:-1,AR: SHAMEL AFLAM
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75074
-#EXTINF:-1,AR: Shaun The sheep
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75075
-#EXTINF:-1,AR: Shoof Max 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75076
-#EXTINF:-1,AR: Shoof Max 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75077
-#EXTINF:-1,AR: Sirag TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75078
-#EXTINF:-1,AR: Sky Flix Aflam 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75079
-#EXTINF:-1,AR: Sky Flix Aflam 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75080
-#EXTINF:-1,AR: Sky Flix Anime 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75081
-#EXTINF:-1,AR: Sky Flix Box Office
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75082
-#EXTINF:-1,AR: Sky Flix Box Office 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75083
-#EXTINF:-1,AR: Sky Flix Box Office 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75084
-#EXTINF:-1,AR: Sky Flix Movies
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75085
-#EXTINF:-1,AR: Sky News Arabia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75086
-#EXTINF:-1,AR: Spongbob
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75087
-#EXTINF:-1,AR: SPORT
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75088
-#EXTINF:-1,AR: Star Movies HD
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75089
-#EXTINF:-1,AR: StoryChannel TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75090
-#EXTINF:-1,AR: TCM
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75091
-#EXTINF:-1,AR: Teletubbies
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75092
-#EXTINF:-1,AR: The Way TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75093
-#EXTINF:-1,AR: TLC
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75094
-#EXTINF:-1,AR: TOM AND JERY
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75095
-#EXTINF:-1,AR: TRT Arabi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75096
-#EXTINF:-1,AR: Wassouf
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75097
-#EXTINF:-1,BHR: Bahrain International
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75098
-#EXTINF:-1,BHR: Bahrain Quran
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75099
-#EXTINF:-1,BHR: Bahrain Sports 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75100
-#EXTINF:-1,BHR: Bahrain Sports 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75101
-#EXTINF:-1,BHR: Bahrain TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75102
-#EXTINF:-1,BHR: Bloomberg TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75103
-#EXTINF:-1,DZ: AL 24 News
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75104
-#EXTINF:-1,DZ: Al Anis TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75105
-#EXTINF:-1,DZ: Algerie 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75106
-#EXTINF:-1,DZ: Algerie 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75107
-#EXTINF:-1,DZ: Algerie 4
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75108
-#EXTINF:-1,DZ: Algerie 5
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75109
-#EXTINF:-1,DZ: Algerie 6
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75110
-#EXTINF:-1,DZ: Algerie 7 Elmaarifa
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75111
-#EXTINF:-1,DZ: Algerie 8 Edhakira
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75112
-#EXTINF:-1,DZ: Algerie Oula
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75113
-#EXTINF:-1,DZ: Alsalam
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75114
-#EXTINF:-1,DZ: Bahia TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75115
-#EXTINF:-1,DZ: Beur TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75116
-#EXTINF:-1,DZ: Echorouk News
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75117
-#EXTINF:-1,DZ: Echorouk TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75118
-#EXTINF:-1,DZ: El Bilad TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75119
-#EXTINF:-1,DZ: El Djazair N1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75120
-#EXTINF:-1,DZ: El Fadjer TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75121
-#EXTINF:-1,DZ: El Hayat TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75122
-#EXTINF:-1,DZ: El Heddaf TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75123
-#EXTINF:-1,DZ: Elwatania TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75124
-#EXTINF:-1,DZ: Ennahar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75125
-#EXTINF:-1,DZ: Samira TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75126
-#EXTINF:-1,DZ: Zahra TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75127
-#EXTINF:-1,EG: Aghapy TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75128
-#EXTINF:-1,EG: Al Ahly TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75129
-#EXTINF:-1,EG: Al Fady TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75130
-#EXTINF:-1,EG: Al Hayat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75131
-#EXTINF:-1,EG: Al Kahera Wal Nas
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75132
-#EXTINF:-1,EG: Al Kahera Wal Nas 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75133
-#EXTINF:-1,EG: Al Masriyah
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75134
-#EXTINF:-1,EG: Al Nada TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75135
-#EXTINF:-1,EG: Al Nahar Cinema
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75136
-#EXTINF:-1,EG: Al Nahar Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75137
-#EXTINF:-1,EG: Al Nahar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75138
-#EXTINF:-1,EG: Al Rahma
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75139
-#EXTINF:-1,EG: Al Saeedah
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75140
-#EXTINF:-1,EG: AL Shams TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75141
-#EXTINF:-1,EG: Al Shasha Film
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75142
-#EXTINF:-1,EG: Alfath TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75143
-#EXTINF:-1,EG: Alghad TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75144
-#EXTINF:-1,EG: AlHadath Alyoum
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75145
-#EXTINF:-1,EG: Alhayah
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75146
-#EXTINF:-1,EG: Alhayah 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75147
-#EXTINF:-1,EG: Alhayat Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75148
-#EXTINF:-1,EG: ATV SAT
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75149
-#EXTINF:-1,EG: Belody Aflam
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75150
-#EXTINF:-1,EG: CBC
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75151
-#EXTINF:-1,EG: CBC Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75152
-#EXTINF:-1,EG: CBC Sofra
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75153
-#EXTINF:-1,EG: Christian Youth Channel (CYC)
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75154
-#EXTINF:-1,EG: Cima
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75155
-#EXTINF:-1,EG: Coptic TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75156
-#EXTINF:-1,EG: DMC
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75157
-#EXTINF:-1,EG: DMC Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75158
-#EXTINF:-1,EG: Egyptian TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75159
-#EXTINF:-1,EG: El Mahrousah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75160
-#EXTINF:-1,EG: El Mehwar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75161
-#EXTINF:-1,EG: El Moled
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75162
-#EXTINF:-1,EG: Elnas TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75163
-#EXTINF:-1,EG: Elsharq
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75164
-#EXTINF:-1,EG: ERTU 2 (AL THANYA)
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75165
-#EXTINF:-1,EG: ERTU 3 Al Kahera
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75166
-#EXTINF:-1,EG: ERTU 4 Al Kanal
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75167
-#EXTINF:-1,EG: ERTU 5 Al Askandria
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75168
-#EXTINF:-1,EG: ERTU 6 Al Delta
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75169
-#EXTINF:-1,EG: ERTU 8 Teba
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75170
-#EXTINF:-1,EG: ETC
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75171
-#EXTINF:-1,EG: Extra News
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75172
-#EXTINF:-1,EG: Fatafeat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75173
-#EXTINF:-1,EG: Free TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75174
-#EXTINF:-1,EG: Koogi TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75175
-#EXTINF:-1,EG: Madrasetna 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75176
-#EXTINF:-1,EG: Madrasetna 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75177
-#EXTINF:-1,EG: Madrasetna 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75178
-#EXTINF:-1,EG: Maspero Zaman
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75179
-#EXTINF:-1,EG: Mazzika
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75180
-#EXTINF:-1,EG: MBC Maser
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75181
-#EXTINF:-1,EG: MBC Maser 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75182
-#EXTINF:-1,EG: ME Sat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75183
-#EXTINF:-1,EG: Mekameleen TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75184
-#EXTINF:-1,EG: Misr Al Zeraya
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75185
-#EXTINF:-1,EG: Misr AlBalad
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75186
-#EXTINF:-1,EG: Mix Hollywood
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75187
-#EXTINF:-1,EG: Nile Cinema
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75188
-#EXTINF:-1,EG: Nile Comedy
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75189
-#EXTINF:-1,EG: Nile Culture
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75190
-#EXTINF:-1,EG: Nile Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75191
-#EXTINF:-1,EG: Nile Family
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75192
-#EXTINF:-1,EG: Nile Life
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75193
-#EXTINF:-1,EG: Nile News
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75194
-#EXTINF:-1,EG: Nile Sport
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75195
-#EXTINF:-1,EG: Nile TV International
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75196
-#EXTINF:-1,EG: Nogoum FM TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75197
-#EXTINF:-1,EG: ON Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75198
-#EXTINF:-1,EG: On E
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75199
-#EXTINF:-1,EG: OnTime Sports
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75200
-#EXTINF:-1,EG: OnTime Sports 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75201
-#EXTINF:-1,EG: PNC Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75202
-#EXTINF:-1,EG: PNC Drama 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75203
-#EXTINF:-1,EG: PNC Film
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75204
-#EXTINF:-1,EG: PNC Food
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75205
-#EXTINF:-1,EG: Quran Kareem
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75206
-#EXTINF:-1,EG: Rotana Cinema Egypt
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75207
-#EXTINF:-1,EG: Rotana Classic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75208
-#EXTINF:-1,EG: Sada Elbalad
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75209
-#EXTINF:-1,EG: Sada Elbalad 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75210
-#EXTINF:-1,EG: Sada Elbalad Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75211
-#EXTINF:-1,EG: Safa TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75212
-#EXTINF:-1,EG: Star Cinema 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75213
-#EXTINF:-1,EG: Star Cinema 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75214
-#EXTINF:-1,EG: Ten
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75215
-#EXTINF:-1,EG: The Kingdom Sat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75216
-#EXTINF:-1,EG: Watan TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75217
-#EXTINF:-1,EG: Zamalek TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75218
-#EXTINF:-1,IQ: Afaq TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75219
-#EXTINF:-1,IQ: Al Aqila TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75220
-#EXTINF:-1,IQ: Al Ayyam TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75221
-#EXTINF:-1,IQ: AL Eshraq TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75222
-#EXTINF:-1,IQ: Al Etejah
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75223
-#EXTINF:-1,IQ: Al Janoubia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75224
-#EXTINF:-1,IQ: Al Mawsleya TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75225
-#EXTINF:-1,IQ: Al Naeem TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75226
-#EXTINF:-1,IQ: Al Nujaba TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75227
-#EXTINF:-1,IQ: Al Rafidain TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75228
-#EXTINF:-1,IQ: Al Rasheed TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75229
-#EXTINF:-1,IQ: Al Salam TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75230
-#EXTINF:-1,IQ: Al Zahra TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75231
-#EXTINF:-1,IQ: Alahad TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75232
-#EXTINF:-1,IQ: Alforat TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75233
-#EXTINF:-1,IQ: Alghadeer TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75234
-#EXTINF:-1,IQ: Alhurra
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75235
-#EXTINF:-1,IQ: Alsumaria
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75236
-#EXTINF:-1,IQ: Dawacom TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75237
-#EXTINF:-1,IQ: Drama iraq TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75238
-#EXTINF:-1,IQ: Dua Channel
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75239
-#EXTINF:-1,IQ: Hona Baghdad TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75240
-#EXTINF:-1,IQ: I News
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75241
-#EXTINF:-1,IQ: Imam Ali TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75242
-#EXTINF:-1,IQ: Imam Hussein TV 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75243
-#EXTINF:-1,IQ: Imam Hussein TV 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75244
-#EXTINF:-1,IQ: Imam Hussein TV 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75245
-#EXTINF:-1,IQ: Iraq 24
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75246
-#EXTINF:-1,IQ: Iraq Educational sat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75247
-#EXTINF:-1,IQ: Iraq Future TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75248
-#EXTINF:-1,IQ: Iraqia General
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75249
-#EXTINF:-1,IQ: Iraqia News
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75250
-#EXTINF:-1,IQ: Iraqia Sport
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75251
-#EXTINF:-1,IQ: Iraqia Syriac
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75252
-#EXTINF:-1,IQ: Iraqia Turkmen
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75253
-#EXTINF:-1,IQ: Karbala
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75254
-#EXTINF:-1,IQ: Kirkuk TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75255
-#EXTINF:-1,IQ: Marjaeyat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75256
-#EXTINF:-1,IQ: MBC Iraq
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75257
-#EXTINF:-1,IQ: Om AlBaneen TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75258
-#EXTINF:-1,IQ: Samarra TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75259
-#EXTINF:-1,IQ: Saout Alaqila
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75260
-#EXTINF:-1,IQ: Sawt Alitra TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75261
-#EXTINF:-1,IQ: Shihab TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75262
-#EXTINF:-1,IQ: UTV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75263
-#EXTINF:-1,IQ: Zagros TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75264
-#EXTINF:-1,JO: Al Mamlaka TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75265
-#EXTINF:-1,JO: Alerth Alnabawi Channel
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75266
-#EXTINF:-1,JO: Altaghier TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75267
-#EXTINF:-1,JO: Amman TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75268
-#EXTINF:-1,JO: Azhari TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75269
-#EXTINF:-1,JO: Dijlah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75270
-#EXTINF:-1,JO: Dijlah Zaman
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75271
-#EXTINF:-1,JO: JORDAN AMEN
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75272
-#EXTINF:-1,JO: Jordan Now TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75273
-#EXTINF:-1,JO: Jordan Sport
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75274
-#EXTINF:-1,JO: Jordan TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75275
-#EXTINF:-1,JO: Kaifa TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75276
-#EXTINF:-1,JO: Karameesh
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75277
-#EXTINF:-1,JO: Roya TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75278
-#EXTINF:-1,JO: Sama Jordan
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75279
-#EXTINF:-1,JO: Toyor Aljanah
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75280
-#EXTINF:-1,JO: Yarmouk
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75281
-#EXTINF:-1,KW: Al Awhad TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75282
-#EXTINF:-1,KW: Al Maaly TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75283
-#EXTINF:-1,KW: Al Maaref TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75284
-#EXTINF:-1,KW: Al Majlis TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75285
-#EXTINF:-1,KW: Al Sabah
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75286
-#EXTINF:-1,KW: Al Shahed
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75287
-#EXTINF:-1,KW: Alanwar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75288
-#EXTINF:-1,KW: Albawadi TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75289
-#EXTINF:-1,KW: Alrai TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75290
-#EXTINF:-1,KW: ATV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75291
-#EXTINF:-1,KW: Funoon TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75292
-#EXTINF:-1,KW: KTV 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75293
-#EXTINF:-1,KW: KTV 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75294
-#EXTINF:-1,KW: KTV Al Qurain
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75295
-#EXTINF:-1,KW: KTV Arabe
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75296
-#EXTINF:-1,KW: KTV Ethraa
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75297
-#EXTINF:-1,KW: KTV Sport
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75298
-#EXTINF:-1,KW: Kuwait TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75299
-#EXTINF:-1,KW: Marina TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75300
-#EXTINF:-1,LB: Aghani Aghani TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75301
-#EXTINF:-1,LB: Al Iman TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75302
-#EXTINF:-1,LB: Al Jadeed
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75303
-#EXTINF:-1,LB: Al Manar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75304
-#EXTINF:-1,LB: Al Mayadeen TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75305
-#EXTINF:-1,LB: Al Qanat 9
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75306
-#EXTINF:-1,LB: Arabica TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75307
-#EXTINF:-1,LB: Assirat TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75308
-#EXTINF:-1,LB: Charity TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75309
-#EXTINF:-1,LB: Lana TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75310
-#EXTINF:-1,LB: Lana TV Plus
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75311
-#EXTINF:-1,LB: LBC 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75312
-#EXTINF:-1,LB: LBC International
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75313
-#EXTINF:-1,LB: mtv
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75314
-#EXTINF:-1,LB: Nabaa TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75315
-#EXTINF:-1,LB: NBN
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75316
-#EXTINF:-1,LB: Nour Al Koddass
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75317
-#EXTINF:-1,LB: Nour Al Sharq
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75318
-#EXTINF:-1,LB: Nour El Shabeb
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75319
-#EXTINF:-1,LB: Nour Kids
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75320
-#EXTINF:-1,LB: Nour Mariam
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75321
-#EXTINF:-1,LB: Noursat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75322
-#EXTINF:-1,LB: One
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75323
-#EXTINF:-1,LB: OTV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75324
-#EXTINF:-1,LB: Suboro TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75325
-#EXTINF:-1,LB: Taha TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75326
-#EXTINF:-1,LB: Tele Liban
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75327
-#EXTINF:-1,LB: TV Alittihad
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75328
-#EXTINF:-1,LY:  Alwatania TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75329
-#EXTINF:-1,LY: Al Aan TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75330
-#EXTINF:-1,LY: Al Ahrar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75331
-#EXTINF:-1,LY: Almasar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75332
-#EXTINF:-1,LY: Almustaqbal
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75333
-#EXTINF:-1,LY: Alrasmia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75334
-#EXTINF:-1,LY: February
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75335
-#EXTINF:-1,LY: Jamahiria
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75336
-#EXTINF:-1,LY: Lebda
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75337
-#EXTINF:-1,LY: Libya Alhadath
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75338
-#EXTINF:-1,LY: Libya Education
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75339
-#EXTINF:-1,LY: Libya Sport TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75340
-#EXTINF:-1,LY: Libya Sport TV 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75341
-#EXTINF:-1,LY: Libyan Business
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75342
-#EXTINF:-1,LY: Libyas
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75343
-#EXTINF:-1,LY: Salam TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75344
-#EXTINF:-1,LY: Tanasuh TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75345
-#EXTINF:-1,LY: Wasat TV (Libya WTV)
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75346
-#EXTINF:-1,MA: 2M Monde
+
+#EXTINF:-1,group-title="Maroc",2M Monde
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75347
-#EXTINF:-1,MA: Al Aoula
+#EXTINF:-1,group-title="Maroc",Al Aoula
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75348
-#EXTINF:-1,MA: Al Maghribia
+#EXTINF:-1,group-title="Maroc",Al Maghribia
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75349
-#EXTINF:-1,MA: Al Ons TV
+#EXTINF:-1,group-title="Maroc",Al Ons TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75350
-#EXTINF:-1,MA: Arryadia
+#EXTINF:-1,group-title="Maroc",Arryadia
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75351
-#EXTINF:-1,MA: Assadissa
+#EXTINF:-1,group-title="Maroc",Assadissa
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75352
-#EXTINF:-1,MA: Athaqafia
+#EXTINF:-1,group-title="Maroc",Athaqafia
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75353
-#EXTINF:-1,MA: Chada TV
+#EXTINF:-1,group-title="Maroc",Chada TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75354
-#EXTINF:-1,MA: El Medina TV
+#EXTINF:-1,group-title="Maroc",El Medina TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75355
-#EXTINF:-1,MA: Laayoune
+#EXTINF:-1,group-title="Maroc",Laayoune
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75356
-#EXTINF:-1,MA: M24 TV
+#EXTINF:-1,group-title="Maroc",M24 TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75357
-#EXTINF:-1,MA: Medi 1 TV Afrique
+#EXTINF:-1,group-title="Maroc",Medi 1 TV Afrique
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75358
-#EXTINF:-1,MA: Medi 1 TV Arabic
+#EXTINF:-1,group-title="Maroc",Medi 1 TV Arabic
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75359
-#EXTINF:-1,MA: Medi 1 TV Maghreb
+#EXTINF:-1,group-title="Maroc",Medi 1 TV Maghreb
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75360
-#EXTINF:-1,MA: Tamazight
+#EXTINF:-1,group-title="Maroc",Tamazight
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75361
-#EXTINF:-1,MA: Tele Maroc
+#EXTINF:-1,group-title="Maroc",Tele Maroc
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75362
-#EXTINF:-1,OM: AlistiqamaT TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75363
-#EXTINF:-1,OM: Oman Althakafia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75364
-#EXTINF:-1,OM: Oman Live
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75365
-#EXTINF:-1,OM: Oman TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75366
-#EXTINF:-1,OM: Oman TV Cultural
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75367
-#EXTINF:-1,OM: Oman TV Sport
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75368
-#EXTINF:-1,PS: Ajyal
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75369
-#EXTINF:-1,PS: Al Aqsa
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75370
-#EXTINF:-1,PS: Al Fajer
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75371
-#EXTINF:-1,PS: Al Fajer 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75372
-#EXTINF:-1,PS: Al Fajer 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75373
-#EXTINF:-1,PS: Al Fajer 5
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75374
-#EXTINF:-1,PS: Al Haqiqa
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75375
-#EXTINF:-1,PS: Al Quds Today TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75376
-#EXTINF:-1,PS: Alkofiya TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75377
-#EXTINF:-1,PS: Awdeh
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75378
-#EXTINF:-1,PS: Maan TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75379
-#EXTINF:-1,PS: Mawal
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75380
-#EXTINF:-1,PS: Musawa
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75381
-#EXTINF:-1,PS: Palestine Al Yawm
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75382
-#EXTINF:-1,PS: Palestine Mobasher
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75383
-#EXTINF:-1,PS: Palestine Sport
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75384
-#EXTINF:-1,PS: Palestine Today
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75385
-#EXTINF:-1,PS: Palestine TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75386
-#EXTINF:-1,PS: Rajeen TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75387
-#EXTINF:-1,PS: Shabab FM
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75388
-#EXTINF:-1,PS: Watar TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75389
-#EXTINF:-1,PS: Wattan TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75390
-#EXTINF:-1,QA: Al Kass Five
+
+
+
+#EXTINF:-1,group-title="Bein Arab",Al Kass Five
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75391
-#EXTINF:-1,QA: Al Kass Four
+#EXTINF:-1,group-title="Bein Arab",Al Kass Four
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75392
-#EXTINF:-1,QA: Al Kass One
+#EXTINF:-1,group-title="Bein Arab",Al Kass One
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75393
-#EXTINF:-1,QA: Al Kass Three
+#EXTINF:-1,group-title="Bein Arab",Al Kass Three
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75394
-#EXTINF:-1,QA: Al Kass Two
+#EXTINF:-1,group-title="Bein Arab",Al Kass Two
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75395
-#EXTINF:-1,QA: Al Rayyan
+#EXTINF:-1,group-title="Bein Arab",Al Rayyan
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75396
-#EXTINF:-1,QA: Al Rayyan Al Qadeem
+#EXTINF:-1,group-title="Bein Arab",Al Rayyan Al Qadeem
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75397
-#EXTINF:-1,QA: AlJazeera
+#EXTINF:-1,group-title="Bein Arab",AlJazeera
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75398
-#EXTINF:-1,QA: Aljazeera Documentary
+#EXTINF:-1,group-title="Bein Arab",Aljazeera Documentary
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75399
-#EXTINF:-1,QA: Aljazeera English
+#EXTINF:-1,group-title="Bein Arab",Aljazeera English
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75400
-#EXTINF:-1,QA: Aljazeera Mubasher
+#EXTINF:-1,group-title="Bein Arab",Aljazeera Mubasher
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75401
-#EXTINF:-1,QA: AMC
+#EXTINF:-1,group-title="Bein Arab",AMC
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75402
-#EXTINF:-1,QA: Baby TV
+#EXTINF:-1,group-title="Bein Arab",Baby TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75403
-#EXTINF:-1,QA: BBC Earth
+#EXTINF:-1,group-title="Bein Arab",BBC Earth
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75404
-#EXTINF:-1,QA: Be Junior
+#EXTINF:-1,group-title="Bein Arab",Be Junior
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75405
-#EXTINF:-1,QA: beIN AFCON 1
+#EXTINF:-1,group-title="Bein Arab",beIN AFCON 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75406
-#EXTINF:-1,QA: beIN AFCON 2
+#EXTINF:-1,group-title="Bein Arab",beIN AFCON 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75407
-#EXTINF:-1,QA: beIN Box Office 1
+#EXTINF:-1,group-title="Bein Arab",beIN Box Office 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75408
-#EXTINF:-1,QA: beIN Box Office 2
+#EXTINF:-1,group-title="Bein Arab",beIN Box Office 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75409
-#EXTINF:-1,QA: beIN Drama 1
+#EXTINF:-1,group-title="Bein Arab",beIN Drama 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75410
-#EXTINF:-1,QA: beIN Gourmet
+#EXTINF:-1,group-title="Bein Arab",beIN Gourmet
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75411
-#EXTINF:-1,QA: beIN Movies Action 2
+#EXTINF:-1,group-title="Bein Arab",beIN Movies Action 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75412
-#EXTINF:-1,QA: beIN Movies Drama 3
+#EXTINF:-1,group-title="Bein Arab",beIN Movies Drama 3
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75413
-#EXTINF:-1,QA: beIN Movies Family 4
+#EXTINF:-1,group-title="Bein Arab",beIN Movies Family 4
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75414
-#EXTINF:-1,QA: beIN Movies Premiere 1
+#EXTINF:-1,group-title="Bein Arab",beIN Movies Premiere 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75415
-#EXTINF:-1,QA: beIN Series 1
+#EXTINF:-1,group-title="Bein Arab",beIN Series 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75416
-#EXTINF:-1,QA: beIN Series 2
+#EXTINF:-1,group-title="Bein Arab",beIN Series 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75417
-#EXTINF:-1,QA: beIN Sports
+#EXTINF:-1,group-title="Bein Arab",beIN Sports
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75418
-#EXTINF:-1,QA: beIN Sports 1
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75419
-#EXTINF:-1,QA: beIN Sports 2
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75420
-#EXTINF:-1,QA: beIN Sports 3
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 3
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75421
-#EXTINF:-1,QA: beIN Sports 4
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 4
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75422
-#EXTINF:-1,QA: beIN Sports 5
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 5
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75423
-#EXTINF:-1,QA: beIN Sports 6
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 6
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75424
-#EXTINF:-1,QA: beIN Sports 7
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 7
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75425
-#EXTINF:-1,QA: beIN Sports 8
+#EXTINF:-1,group-title="Bein Arab",beIN Sports 8
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75426
-#EXTINF:-1,QA: beIN Sports English 1
+#EXTINF:-1,group-title="Bein Arab",beIN Sports English 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75427
-#EXTINF:-1,QA: beIN Sports English 3
+#EXTINF:-1,group-title="Bein Arab",beIN Sports English 3
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75428
-#EXTINF:-1,QA: beIN Sports News
+#EXTINF:-1,group-title="Bein Arab",beIN Sports News
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75429
-#EXTINF:-1,QA: beIN Sports Premium 1
+#EXTINF:-1,group-title="Bein Arab",beIN Sports Premium 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75430
-#EXTINF:-1,QA: beIN Sports Premium 2
+#EXTINF:-1,group-title="Bein Arab",beIN Sports Premium 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75431
-#EXTINF:-1,QA: beIN Sports Xtra 1
+#EXTINF:-1,group-title="Bein Arab",beIN Sports Xtra 1
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75432
-#EXTINF:-1,QA: beIN Sports Xtra 2
+#EXTINF:-1,group-title="Bein Arab",beIN Sports Xtra 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75433
-#EXTINF:-1,QA: Bloomberg TV
+#EXTINF:-1,group-title="Bein Arab",Bloomberg TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75434
-#EXTINF:-1,QA: Cartoon Network Arabic
+#EXTINF:-1,group-title="Bein Arab",Cartoon Network Arabic
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75435
-#EXTINF:-1,QA: Discovery Kids
+#EXTINF:-1,group-title="Bein Arab",Discovery Kids
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75436
-#EXTINF:-1,QA: Discovery Turbo Xtra (DTX)
+#EXTINF:-1,group-title="Bein Arab",Discovery Turbo Xtra (DTX)
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75437
-#EXTINF:-1,QA: DMAX
+#EXTINF:-1,group-title="Bein Arab",DMAX
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75438
-#EXTINF:-1,QA: Food Network
+#EXTINF:-1,group-title="Bein Arab",Food Network
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75439
-#EXTINF:-1,QA: Fox Action Movies
+#EXTINF:-1,group-title="Bein Arab",Fox Action Movies
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75440
-#EXTINF:-1,QA: Fox Life
+#EXTINF:-1,group-title="Bein Arab",Fox Life
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75441
-#EXTINF:-1,QA: FOX Movies
+#EXTINF:-1,group-title="Bein Arab",FOX Movies
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75442
-#EXTINF:-1,QA: Jeem TV
+#EXTINF:-1,group-title="Bein Arab",Jeem TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75443
-#EXTINF:-1,QA: NAT GEO Wild
+#EXTINF:-1,group-title="Bein Arab",NAT GEO Wild
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75444
-#EXTINF:-1,QA: Outdoor
+#EXTINF:-1,group-title="Bein Arab",Outdoor
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75445
-#EXTINF:-1,QA: Qatar TV
+#EXTINF:-1,group-title="Bein Arab",Qatar TV
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75446
-#EXTINF:-1,QA: Qatar TV 2
+#EXTINF:-1,group-title="Bein Arab",Qatar TV 2
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75447
-#EXTINF:-1,QA: Star Movies
+#EXTINF:-1,group-title="Bein Arab",Star Movies
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75448
-#EXTINF:-1,QA: Star World
+#EXTINF:-1,group-title="Bein Arab",Star World
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75449
-#EXTINF:-1,QA: Travel Channel
+#EXTINF:-1,group-title="Bein Arab",Travel Channel
 http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75450
-#EXTINF:-1,SA: Al Majd
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75451
-#EXTINF:-1,SA: Al Majd Quran
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75452
-#EXTINF:-1,SA: Alresalah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75453
-#EXTINF:-1,SA: ART Aflam 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75454
-#EXTINF:-1,SA: ART Aflam 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75455
-#EXTINF:-1,SA: ART Cinema
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75456
-#EXTINF:-1,SA: ART Hekayat
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75457
-#EXTINF:-1,SA: ART Hekayat 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75458
-#EXTINF:-1,SA: Atfal & Mawaheb
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75459
-#EXTINF:-1,SA: Basma Channel
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75460
-#EXTINF:-1,SA: Channel 24 Saudi
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75461
-#EXTINF:-1,SA: Ekhbariya TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75462
-#EXTINF:-1,SA: IEN Doros 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75463
-#EXTINF:-1,SA: IEN Doros 10
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75464
-#EXTINF:-1,SA: IEN Doros 11
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75465
-#EXTINF:-1,SA: IEN Doros 12
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75466
-#EXTINF:-1,SA: IEN Doros 13
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75467
-#EXTINF:-1,SA: IEN Doros 14
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75468
-#EXTINF:-1,SA: IEN Doros 15
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75469
-#EXTINF:-1,SA: IEN Doros 16
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75470
-#EXTINF:-1,SA: IEN Doros 17
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75471
-#EXTINF:-1,SA: IEN Doros 18
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75472
-#EXTINF:-1,SA: IEN Doros 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75473
-#EXTINF:-1,SA: IEN Doros 20
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75474
-#EXTINF:-1,SA: iEN Doros 21
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75475
-#EXTINF:-1,SA: iEN Doros 22
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75476
-#EXTINF:-1,SA: iEN Doros 23
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75477
-#EXTINF:-1,SA: IEN Doros 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75478
-#EXTINF:-1,SA: IEN Doros 4
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75479
-#EXTINF:-1,SA: IEN Doros 5
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75480
-#EXTINF:-1,SA: IEN Doros 6
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75481
-#EXTINF:-1,SA: IEN Doros 7
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75482
-#EXTINF:-1,SA: IEN Doros 8
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75483
-#EXTINF:-1,SA: IEN Doros 9
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75484
-#EXTINF:-1,SA: IEN Doros TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75485
-#EXTINF:-1,SA: Iqraa
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75486
-#EXTINF:-1,SA: KSA Sports 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75487
-#EXTINF:-1,SA: KSA Sports 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75488
-#EXTINF:-1,SA: KSA Sports 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75489
-#EXTINF:-1,SA: KSA Sports 4
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75490
-#EXTINF:-1,SA: LBC
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75491
-#EXTINF:-1,SA: Makkah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75492
-#EXTINF:-1,SA: Quran TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75493
-#EXTINF:-1,SA: Rotana Aflam+
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75494
-#EXTINF:-1,SA: Rotana Cinema KSA
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75495
-#EXTINF:-1,SA: Rotana Classic
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75496
-#EXTINF:-1,SA: Rotana Clip
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75497
-#EXTINF:-1,SA: Rotana Comedy
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75498
-#EXTINF:-1,SA: Rotana Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75499
-#EXTINF:-1,SA: Rotana Khalejia
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75500
-#EXTINF:-1,SA: Rotana Kids
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75501
-#EXTINF:-1,SA: Rotana M+
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75502
-#EXTINF:-1,SA: Rotana Music
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75503
-#EXTINF:-1,SA: Rotana+
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75504
-#EXTINF:-1,SA: Saudi TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75505
-#EXTINF:-1,SA: SBC
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75506
-#EXTINF:-1,SA: SSC 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75507
-#EXTINF:-1,SA: SSC 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75508
-#EXTINF:-1,SA: SSC 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75509
-#EXTINF:-1,SA: SSC 4
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75510
-#EXTINF:-1,SA: SSC 5
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75511
-#EXTINF:-1,SA: SSC Extra 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75512
-#EXTINF:-1,SA: SSC Extra 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75513
-#EXTINF:-1,SA: SSC Extra 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75514
-#EXTINF:-1,SA: Sunna TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75515
-#EXTINF:-1,SA: Thikrayat TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75516
-#EXTINF:-1,SA: Zad TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75517
-#EXTINF:-1,SD: Africa TV 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75518
-#EXTINF:-1,SD: Africa TV 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75519
-#EXTINF:-1,SD: Africa TV 3
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75520
-#EXTINF:-1,SD: Ashorooq TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75521
-#EXTINF:-1,SD: Blue Nile
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75522
-#EXTINF:-1,SD: Dabanga TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75523
-#EXTINF:-1,SD: Khartoum TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75524
-#EXTINF:-1,SD: Shamalia TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75525
-#EXTINF:-1,SD: SSBC TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75526
-#EXTINF:-1,SD: Sudan Bukra
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75527
-#EXTINF:-1,SD: Sudan Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75528
-#EXTINF:-1,SD: Sudan TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75529
-#EXTINF:-1,SD: Sudania 24 TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75530
-#EXTINF:-1,SD: Tayba TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75531
-#EXTINF:-1,SY: Al Khabar
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75532
-#EXTINF:-1,SY: Alalam News
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75533
-#EXTINF:-1,SY: Alikhbaria
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75534
-#EXTINF:-1,SY: Altaleaa TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75535
-#EXTINF:-1,SY: Alyaum
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75536
-#EXTINF:-1,SY: Halab Today TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75537
-#EXTINF:-1,SY: Minbij TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75538
-#EXTINF:-1,SY: Nour El Sham
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75539
-#EXTINF:-1,SY: Rojava TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75540
-#EXTINF:-1,SY: Sama TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75541
-#EXTINF:-1,SY: Sham TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75542
-#EXTINF:-1,SY: Souryana TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75543
-#EXTINF:-1,SY: Suboro TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75544
-#EXTINF:-1,SY: Syria Drama
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75545
-#EXTINF:-1,SY: Syrian Educational TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75546
-#EXTINF:-1,SY: Syrian Satellite
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75547
-#EXTINF:-1,TN: Al Insen TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75548
-#EXTINF:-1,TN: AL Janoubia TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75549
-#EXTINF:-1,TN: Attessia TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75550
-#EXTINF:-1,TN: Carthage+
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75551
-#EXTINF:-1,TN: Elhiwar Ettounsi TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75552
-#EXTINF:-1,TN: Hannibal TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75553
-#EXTINF:-1,TN: Jawhara FM
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75554
-#EXTINF:-1,TN: Nessma
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75555
-#EXTINF:-1,TN: Sahel TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75556
-#EXTINF:-1,TN: Telvza TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75557
-#EXTINF:-1,TN: Tunisia Immobilier TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75558
-#EXTINF:-1,TN: Tunisna TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75559
-#EXTINF:-1,TN: Watania 1
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75560
-#EXTINF:-1,TN: Watania 2
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75561
-#EXTINF:-1,TN: Zitouna TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75562
-#EXTINF:-1,YE: Aden TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75563
-#EXTINF:-1,YE: Al Eman TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75564
-#EXTINF:-1,YE: AL Mahrah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75565
-#EXTINF:-1,YE: Alhawyah
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75566
-#EXTINF:-1,YE: Almahriah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75567
-#EXTINF:-1,YE: Almasirah Mubasher
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75568
-#EXTINF:-1,YE: AlMasirah TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75569
-#EXTINF:-1,YE: Belqees TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75570
-#EXTINF:-1,YE: Hadramout
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75571
-#EXTINF:-1,YE: Sheba
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75572
-#EXTINF:-1,YE: Suhail TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75573
-#EXTINF:-1,YE: Yemen Documentary
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75574
-#EXTINF:-1,YE: Yemen Education
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75575
-#EXTINF:-1,YE: Yemen Shabab
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75576
-#EXTINF:-1,YE: Yemen Today TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75577
-#EXTINF:-1,YE: Yemen TV
-http://haiermain01.xyz:8080/tiagoafilhado/hKnHQvKJQdBZ/75578
