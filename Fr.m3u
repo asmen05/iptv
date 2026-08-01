@@ -1,100 +1,178 @@
 #EXTM3U
-#EXTINF:-1,NOLLYWOOD
-http://145.239.5.177/148/index.m3u8
-#EXTINF:-1,ftv
-http://145.239.5.177/147/index.m3u8
-#EXTINF:-1,TRACE GODPEL
-http://145.239.5.177/206/index.m3u8
+#EXTINF:-1,France 2 HD
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1,France 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1,France 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1,France 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1,Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1,Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1,Canal+ Family
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1,Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1,13EME RUE
+http://151.80.18.177:86/13_Eme_Rue_HD/index.m3u8
+#EXTINF:-1,TCM Cinema
+http://151.80.18.177:86/TCM_Cinema_HD/index.m3u8
+#EXTINF:-1,Serie Club
+http://151.80.18.177:86/Serie_Club_HD/index.m3u8
+#EXTINF:-1,Cine+ Famiz
+http://151.80.18.177:86/Cine+_Famiz_HD/index.m3u8
+#EXTINF:-1,Cine+ Emotion HD
+http://151.80.18.177:86/Cine+_Emotion_HD/index.m3u8
+#EXTINF:-1,Cine+ Classic
+http://151.80.18.177:86/Cine+_Classic_HD/index.m3u8
+#EXTINF:-1,ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1,Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1,AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1,RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1,TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1,Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1,Animaux
+http://151.80.18.177:86/Animaux/index.m3u8
+#EXTINF:-1,National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1,Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1,Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1.RMC DECOUVERDE
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1.Planete+
+http://151.80.18.177:86/Planete+_HD/index.m3u8
+#EXTINF:-1.Planete+ A&E
+http://151.80.18.177:86/Planete+_AE_HD/index.m3u8
+#EXTINF:-1.Planete+ CI
+http://151.80.18.177:86/Planete+_CI_HD/index.m3u8
+#EXTINF:-1,6TER HD
+http://151.80.18.177:86/6ter/index.m3u8
+#EXTINF:-1,M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1,W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
 #EXTINF:-1,TRACE URBAN
-http://145.239.5.177/209/index.m3u8
-#EXTINF:-1,TRACE AFRICA
-http://145.239.5.177/205/index.m3u8
-#EXTINF:-1,FAMILY
-http://145.239.5.177/215/index.m3u8
-#EXTINF:-1,arte HD
-http://145.239.5.177/300/index.m3u8
-#EXTINF:-1,Service01
-http://145.239.5.177/301/index.m3u8
-#EXTINF:-1,Service01
-http://145.239.5.177/305/index.m3u8
-#EXTINF:-1,M6
-http://145.239.5.177/309/index.m3u8
-#EXTINF:-1,franceinfo
-http://145.239.5.177/306/index.m3u8
-#EXTINF:-1,RTL9
-http://145.239.5.177/308/index.m3u8
-#EXTINF:-1,6ter
-http://145.239.5.177/314/index.m3u8
-#EXTINF:-1,TFX HD
-http://145.239.5.177/315/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/320/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/319/index.m3u8
-#EXTINF:-1,CANAL+
-http://145.239.5.177/322/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/321/index.m3u8
-#EXTINF:-1,W9
-http://145.239.5.177/331/index.m3u8
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1,D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1,Infosport+
+http://151.80.18.177:86/Infosport+_HD/index.m3u8
+#EXTINF:-1,GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1,Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1,Teletoon+ HD
+http://151.80.18.177:86/Teletoon+_HD/index.m3u8
+#EXTINF:-1,Piwi+
+http://151.80.18.177:86/Piwi+_HD/index.m3u8
+#EXTINF:-1,Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1,Disney JR HD
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1,Nickelodeon Junior HD
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
+#EXTINF:-1,Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1,Canal J
+http://151.80.18.177:86/Canal_J_HD/index.m3u8
+#EXTINF:-1,LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1,AB1
-http://145.239.5.177/332/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/341/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/349/index.m3u8
-#EXTINF:-1,nicktoons HD
-http://145.239.5.177/354/index.m3u8
-#EXTINF:-1,serieclub
-http://145.239.5.177/355/index.m3u8
-#EXTINF:-1,BET HD
-http://145.239.5.177/359/index.m3u8
-#EXTINF:-1,teva HD
-http://145.239.5.177/356/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/353/index.m3u8
+http://41.205.64.66:80/AB1/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,ACTION
+http://41.205.64.66:80/ACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1,AFRICA24
+http://41.205.64.66:80/AFRICA24/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,ANIMAUX
+http://41.205.64.66:80/ANIMAUX/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BFM-TV
+http://41.205.64.66:80/BFM-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BLOOMBERG
+http://41.205.64.66:80/BLOOMBERG/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV
+http://41.205.64.66:80/C8/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,CANALJ
+http://41.205.64.66:80/CANALJ/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,CARTOON-NETWORK
+http://41.205.64.66:80/CARTOON-NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RMC LIFE
+http://41.205.64.66:80/CHERIE25/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNN
+http://41.205.64.66:80/CNN/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1,CSTAR
-http://145.239.5.177/361/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/368/index.m3u8
-#EXTINF:-1,carac1 HD
-http://145.239.5.177/371/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/518/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/526/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/525/index.m3u8
-#EXTINF:-1,Eurosport1 HD
-http://145.239.5.177/529/index.m3u8
-#EXTINF:-1,Eurosport2 HD
-http://145.239.5.177/530/index.m3u8
-#EXTINF:-1,bein sports2 HD
-http://145.239.5.177/558/index.m3u8
-#EXTINF:-1,bein sports1 HD
-http://145.239.5.177/557/index.m3u8
-#EXTINF:-1,CANAL+
-http://145.239.5.177/556/index.m3u8
-#EXTINF:-1,bein sports3 HD
-http://145.239.5.177/559/index.m3u8
-#EXTINF:-1,+SPORT360
-http://145.239.5.177/561/index.m3u8
-#EXTINF:-1,SERIA A HD
-http://145.239.5.177/564/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/562/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/565/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/549/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/566/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/568/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/570/index.m3u8
-#EXTINF:-1,Service01 HD
-http://145.239.5.177/569/index.m3u8
+http://41.205.64.66:80/CSTAR/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DISCOVERY-CHANNEL
+http://41.205.64.66:80/DISCOVERY-CHANNEL/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,DISNEY-JUNIOR
+http://41.205.64.66:80/DISNEY-JUNIOR/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,EUROSPORT1
+http://41.205.64.66:80/EUROSPORT1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EUROSPORT2
+http://41.205.64.66:80/EUROSPORT2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,EWTN
+http://41.205.64.66:80/EWTN/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,FOX-NEWS
+http://41.205.64.66:80/FOX-NEWS/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,FRANCE5
+http://41.205.64.66:80/FRANCE5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FRANCEINFO
+http://41.205.64.66:80/FRANCEINFO/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GULLI
+http://41.205.64.66:80/GULLI/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,HALLMARK
+http://41.205.64.66:80/HALLMARK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO
+http://41.205.64.66:80/HBO/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HBO-COMEDY
+http://41.205.64.66:80/HBO-COMEDY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,KTO
+http://41.205.64.66:80/KTO/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LCI
+http://41.205.64.66:80/LCI/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,MCM
+http://41.205.64.66:80/MCM/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,MSNBC
+http://41.205.64.66:80/MSNBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NATGEO-WILD
+http://41.205.64.66:80/NATGEO-WILD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,NBC
+http://41.205.64.66:80/NBC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,RMCDECOUVERTE
+http://41.205.64.66:80/RMCDECOUVERTE/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,RT-ENGLISH
+http://41.205.64.66:80/RT-ENGLISH/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTL9
+http://41.205.64.66:80/RTL9/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,SKYNEWS
+http://41.205.64.66:80/SKYNEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SUPERTENNIS
+http://41.205.64.66:80/SUPERTENNIS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SYFY
+http://41.205.64.66:80/SYFY/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TF1
+http://41.205.64.66:80/TF1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TFX
+http://41.205.64.66:80/TFX/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1,TIJI
+http://41.205.64.66:80/TIJI/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TMC
+http://41.205.64.66:80/TMC/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,E
 http://145.239.5.177/111/index.m3u8
